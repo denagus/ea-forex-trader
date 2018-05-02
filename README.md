@@ -16,7 +16,7 @@ Soon...
 
 ## Built With
 
-* [MQL5](https://www.mql5.com/en/docs) - Lenguaje de Programación
+* [MQL4](https://www.mql4.com/en/docs) - Lenguaje de Programación
 
 ## Authors
 
